@@ -1,6 +1,11 @@
 ## Hi, I'm George
 - Data Engineer/Analyst in Web3(Crypto & DeFi)
 - Blockchain enthusiast
+- Cloud Practitioner (AWS, GCP, Azure)
+
+### Tech Stack:
+<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="40" height="40" alt="Python Logo"> 
+<img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="40" height="40" alt="Python Logo">
 <!--
 **GeorgeVSV/GeorgeVSV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
