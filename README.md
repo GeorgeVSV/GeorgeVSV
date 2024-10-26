@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi, I'm George
+- Data Engineer/Analyst in Web3(crypto, defi)
+- Blockchain enthusiast
 <!--
 **GeorgeVSV/GeorgeVSV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
