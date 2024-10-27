@@ -1,7 +1,7 @@
 ## Hi, I'm George
 - Data Engineer/Analyst in Web3(Crypto & DeFi)
 - Blockchain enthusiast
-- Cloud Practitioner (AWS, GCP, Azure)
+- Cloud Practitioner (AWS, GCP)
 
 ### Tech Stack:
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
